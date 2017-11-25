@@ -1,0 +1,2607 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5a1979d0db04f511f510e8ad"
+  },
+  "response": {
+    "suggestedFilters": {
+      "header": "Tap to show:",
+      "filters": [
+        {
+          "name": "Open now",
+          "key": "openNow"
+        }
+      ]
+    },
+    "geocode": {
+      "what": "",
+      "where": "basingstoke",
+      "center": {
+        "lat": 51.26249,
+        "lng": -1.08708
+      },
+      "displayString": "Basingstoke, Hampshire, United Kingdom",
+      "cc": "GB",
+      "geometry": {
+        "bounds": {
+          "ne": {
+            "lat": 51.30107299999986,
+            "lng": -1.0446420000002377
+          },
+          "sw": {
+            "lat": 51.22225149999986,
+            "lng": -1.1493860000001064
+          }
+        }
+      },
+      "slug": "basingstoke-united-kingdom",
+      "longId": "72057594040584128"
+    },
+    "headerLocation": "Basingstoke",
+    "headerFullLocation": "Basingstoke",
+    "headerLocationGranularity": "city",
+    "query": "coffee",
+    "totalResults": 24,
+    "suggestedBounds": {
+      "ne": {
+        "lat": 51.28660938654253,
+        "lng": -1.0535891184936754
+      },
+      "sw": {
+        "lat": 51.23263199534846,
+        "lng": -1.184036333785751
+      }
+    },
+    "groups": [
+      {
+        "type": "Recommended Places",
+        "name": "recommended",
+        "items": [
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "57849842498e0c74bd818a33",
+              "name": "Starbucks",
+              "location": {
+                "lat": 51.273737,
+                "lng": -1.105491,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.273737,
+                    "lng": -1.105491
+                  }
+                ],
+                "postalCode": "RG21 6AH",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 6AH",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 140,
+                "usersCount": 39,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 7.5,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 9,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58affa50e309e15001d2169d",
+                "createdAt": 1487927888,
+                "text": "Nice clean, modern Starbucks. Friendly staff. Good atmosphere.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58affa50e309e15001d2169d",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "23244",
+                  "firstName": "Jon",
+                  "lastName": "Mulholland",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/23244-2ZUADA3U2IMRLHSH"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-57849842498e0c74bd818a33-0"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50d58f12e4b023bf7ffd84b6",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "The Malls",
+                "crossStreet": "Castle Sq",
+                "lat": 51.26711600636093,
+                "lng": -1.087963131123862,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26711600636093,
+                    "lng": -1.087963131123862
+                  }
+                ],
+                "postalCode": "RG21 7FH",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "The Malls (Castle Sq)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7FH",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 325,
+                "usersCount": 143,
+                "tipCount": 6
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 7.4,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 25,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "52862ac011d2b79109f37397",
+                "createdAt": 1384524480,
+                "text": "Amazing, helpful and attentive staff, breast feeding friendly, space for buggiesd warm!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/52862ac011d2b79109f37397",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "4087075",
+                  "firstName": "Natalie",
+                  "lastName": "Weaving",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/4087075-S5TLOIJKZVLJKSEJ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-50d58f12e4b023bf7ffd84b6-1"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b5f17dbf964a520b2a529e3",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "Chineham Shopping Centre",
+                "crossStreet": "Unit 15",
+                "lat": 51.28415586876098,
+                "lng": -1.059518537370588,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28415586876098,
+                    "lng": -1.059518537370588
+                  }
+                ],
+                "postalCode": "RG24 8BQ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Chineham Shopping Centre (Unit 15)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 8BQ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 853,
+                "usersCount": 197,
+                "tipCount": 7
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 7.4,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 27,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 6:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 6:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4d73a89cff6ba35d11207f8a",
+                "createdAt": 1299425436,
+                "text": "Try the carrot cake! It's the best in the UK IMHO",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4d73a89cff6ba35d11207f8a",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "7429456",
+                  "firstName": "Brett",
+                  "lastName": "Dorney",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/SNEAKAZMK2AU3V0R.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4b5f17dbf964a520b2a529e3-2"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "508fdbb7e4b0784a9334d94d",
+              "name": "Hartley's Kitchen",
+              "location": {
+                "lat": 51.268718517587715,
+                "lng": -1.0726740965131036,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.268718517587715,
+                    "lng": -1.0726740965131036
+                  }
+                ],
+                "cc": "GB",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c5941735",
+                  "name": "Sandwich Place",
+                  "pluralName": "Sandwich Places",
+                  "shortName": "Sandwiches",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 181,
+                "usersCount": 20,
+                "tipCount": 2
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 7.3,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 8,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "53e29bb4498e14db3df7c7bc",
+                "createdAt": 1407359924,
+                "text": "Fantastic staff and great food! I've never had a better panini!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/53e29bb4498e14db3df7c7bc",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "10305581",
+                  "firstName": "Caroline",
+                  "lastName": "Richardson",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/10305581-OCGQ5OZWHEIDMM2A.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-508fdbb7e4b0784a9334d94d-3"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "520e3ba111d290eeb0b91169",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "Basingstoke Leisure Park",
+                "crossStreet": "Euskirchen Way",
+                "lat": 51.26423921948831,
+                "lng": -1.1184994439070304,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26423921948831,
+                    "lng": -1.1184994439070304
+                  }
+                ],
+                "postalCode": "RG22 6PG",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basingstoke Leisure Park (Euskirchen Way)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 6PG",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 453,
+                "usersCount": 105,
+                "tipCount": 4
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.8,
+              "ratingColor": "FFC800",
+              "ratingSignals": 29,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 10:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "56190e86498eff921e302f64",
+                "createdAt": 1444482694,
+                "text": "The staff/service.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/56190e86498eff921e302f64",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "10717171",
+                  "firstName": "Barry",
+                  "lastName": "Smith",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/YUNF3PD1HNVGSGKQ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-520e3ba111d290eeb0b91169-4"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ba0ce12f964a520bf7e37e3",
+              "name": "Starbucks",
+              "location": {
+                "address": "Unit 39 Festival Place",
+                "crossStreet": "Upper Level",
+                "lat": 51.265904,
+                "lng": -1.085956,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.265904,
+                    "lng": -1.085956
+                  }
+                ],
+                "postalCode": "RG21 7LE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Unit 39 Festival Place (Upper Level)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 2050,
+                "usersCount": 648,
+                "tipCount": 16
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "£"
+              },
+              "rating": 6.8,
+              "ratingColor": "FFC800",
+              "ratingSignals": 57,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "12670",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4e56211da809ca773dfbd371",
+                "createdAt": 1314267421,
+                "text": "Get the Starbucks card.... Seriously saves money :)",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e56211da809ca773dfbd371",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "12633831",
+                  "firstName": "Peter",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/G1JN5USDIA1YY431.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4ba0ce12f964a520bf7e37e3-5"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50b91c2ce4b071fc2f1468ea",
+              "name": "The Tea Bar",
+              "location": {
+                "address": "9-13 London St",
+                "lat": 51.26243427118061,
+                "lng": -1.0861245187132844,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26243427118061,
+                    "lng": -1.0861245187132844
+                  }
+                ],
+                "postalCode": "RG21 7NT",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "9-13 London St",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7NT",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 180,
+                "usersCount": 74,
+                "tipCount": 6
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.7,
+              "ratingColor": "FFC800",
+              "ratingSignals": 18,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "540da8ad498e038b412c0b7a",
+                "createdAt": 1410181293,
+                "text": "A cute tea-infused oasis of calm. Nice food and an excellent drink menu.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/540da8ad498e038b412c0b7a",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "206451",
+                  "firstName": "Chaffro",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/CJQR0MPBSP5EU0SM.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-50b91c2ce4b071fc2f1468ea-6"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b66cfe0f964a520c92b2be3",
+              "name": "Caffé Nero",
+              "location": {
+                "address": "1 Mayfair House",
+                "lat": 51.264057076824365,
+                "lng": -1.086250643899514,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.264057076824365,
+                    "lng": -1.086250643899514
+                  }
+                ],
+                "postalCode": "RG21 7JT",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "1 Mayfair House",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7JT",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1059,
+                "usersCount": 169,
+                "tipCount": 13
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.7,
+              "ratingColor": "FFC800",
+              "ratingSignals": 30,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4e841ea3003946a675c2ea0c",
+                "createdAt": 1317281443,
+                "text": "Best coffee in Basingstoke, serverd by the nicest bunch of people.  A great place to do a little work, and get a caffeine fix.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e841ea3003946a675c2ea0c",
+                "likes": {
+                  "count": 5,
+                  "groups": [],
+                  "summary": "5 Likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "12692787",
+                  "firstName": "Stu",
+                  "lastName": "Last",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/COSNHJ050ADWMRPQ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4b66cfe0f964a520c92b2be3-7"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ba4e8b1f964a520d2c138e3",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "Festival Place Unit 37",
+                "crossStreet": "Lower Level",
+                "lat": 51.265556278025095,
+                "lng": -1.0872718044256195,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.265556278025095,
+                    "lng": -1.0872718044256195
+                  }
+                ],
+                "postalCode": "RG21 7BE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Place Unit 37 (Lower Level)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 590,
+                "usersCount": 237,
+                "tipCount": 9
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.3,
+              "ratingColor": "FFC800",
+              "ratingSignals": 33,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "572e2b73498e025073572f7b",
+                "createdAt": 1462643571,
+                "text": "Mint cooler extremely overpowering! 4*.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/572e2b73498e025073572f7b",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4ba4e8b1f964a520d2c138e3-8"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "54eee243498e5a9d28f039dd",
+              "name": "Costa Coffee",
+              "location": {
+                "lat": 51.28182401234996,
+                "lng": -1.1199223853778106,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28182401234996,
+                    "lng": -1.1199223853778106
+                  }
+                ],
+                "cc": "GB",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 38,
+                "usersCount": 18,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.3,
+              "ratingColor": "FFC800",
+              "ratingSignals": 7,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "55bc8f65498e3484b080d8e2",
+                "createdAt": 1438420837,
+                "text": "Friendly staff",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/55bc8f65498e3484b080d8e2",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "135794204",
+                  "firstName": "pib",
+                  "lastName": "web",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/135794204_kGb6bSvb_d8cuODKQMtxQ8OHUkndF2dSFaphgWT9Ktd1RgZWYAD3V2MiFRxvpmVebzjvwbsvS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-54eee243498e5a9d28f039dd-9"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c3f1c6383a3a593a5f8ee33",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "North Hampshire & Basingstoke Hospital",
+                "crossStreet": "Aldermaston Rd",
+                "lat": 51.28069758828238,
+                "lng": -1.1091325869406592,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28069758828238,
+                    "lng": -1.1091325869406592
+                  }
+                ],
+                "postalCode": "RG24 9NA",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "North Hampshire & Basingstoke Hospital (Aldermaston Rd)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 9NA",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 304,
+                "usersCount": 87,
+                "tipCount": 3
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 6.1,
+              "ratingColor": "FFC800",
+              "ratingSignals": 5,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51136c26e4b095b579449388",
+                "createdAt": 1360227366,
+                "text": "Loyalty card now accepted here.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51136c26e4b095b579449388",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "13476076",
+                  "firstName": "Tony",
+                  "lastName": "White",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/OLU1KUXQKOTKVTAK.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4c3f1c6383a3a593a5f8ee33-10"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50e2b5f3e4b0bb7af1441165",
+              "name": "Starbucks",
+              "location": {
+                "address": "Unit 3 The Malls",
+                "lat": 51.266326,
+                "lng": -1.088167,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.266326,
+                    "lng": -1.088167
+                  }
+                ],
+                "postalCode": "RG21 7AW",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Unit 3 The Malls",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7AW",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 212,
+                "usersCount": 89,
+                "tipCount": 4
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 5.9,
+              "ratingColor": "FF9600",
+              "ratingSignals": 12,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "52b179b411d2a7144d231b40",
+                "createdAt": 1387362740,
+                "text": "Of course there is another Starbucks a few hundred metres away, so it's up to you which one you go for!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/52b179b411d2a7144d231b40",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "4666590",
+                  "firstName": "Guy",
+                  "lastName": "Randall",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/X2M1LNA544LIKYUX.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-50e2b5f3e4b0bb7af1441165-11"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bc06f9e2a89ef3b147df088",
+              "name": "Costa Coffee",
+              "location": {
+                "address": "Festival Place",
+                "crossStreet": "Upper Level",
+                "lat": 51.2650348368887,
+                "lng": -1.0855472336716365,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.2650348368887,
+                    "lng": -1.0855472336716365
+                  }
+                ],
+                "postalCode": "RG21 7BE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Place (Upper Level)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1088,
+                "usersCount": 282,
+                "tipCount": 9
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 29,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "512609c2e4b07130bc1a0177",
+                "createdAt": 1361447362,
+                "text": "Make sure you use a BIG table if there's only one or two of you. That way those of us with kids and a baby have to cram around a small one with one of us  left standing.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/512609c2e4b07130bc1a0177",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "513316",
+                  "firstName": "Jason",
+                  "lastName": "Kneen",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/513316-FE4REZLNRBQUNT4Q.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4bc06f9e2a89ef3b147df088-12"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c419a43ff711b8d6f261205",
+              "name": "Ready 2 Go",
+              "location": {
+                "address": "Festival Place Shopping Centre",
+                "crossStreet": "Ground Level",
+                "lat": 51.26551521127057,
+                "lng": -1.0878873958049058,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26551521127057,
+                    "lng": -1.0878873958049058
+                  }
+                ],
+                "postalCode": "RG21 7LJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Place Shopping Centre (Ground Level)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 81,
+                "usersCount": 11,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4e709fb288773f007b5424d4",
+                "createdAt": 1316003762,
+                "text": "Very friendly staff. Pizza is delicious.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e709fb288773f007b5424d4",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1165805",
+                  "firstName": "wo0",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/EQ3CFZ1O0TBOMZ1S.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4c419a43ff711b8d6f261205-13"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c1f59d663750f47e7f3ba67",
+              "name": "Muffin Break",
+              "location": {
+                "lat": 51.264383,
+                "lng": -1.086796,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.264383,
+                    "lng": -1.086796
+                  }
+                ],
+                "postalCode": "RG2 1 7",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG2 1 7",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 63,
+                "usersCount": 21,
+                "tipCount": 2
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4fd205c0e4b07915216cca1d",
+                "createdAt": 1339164096,
+                "text": "Thanks for your help with the Cookie Making Workshop. I love your really chocolaty muffins mmm",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4fd205c0e4b07915216cca1d",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "28487989",
+                  "firstName": "Basingstoke Discovery Centre",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/WQ0C1IR2QTDNZJX0.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4c1f59d663750f47e7f3ba67-14"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4dedf4271f6e0f9053edcfca",
+              "name": "Dayer's Fine Foods",
+              "location": {
+                "address": "Basing View",
+                "lat": 51.26867832595919,
+                "lng": -1.0727387851485277,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26867832595919,
+                    "lng": -1.0727387851485277
+                  }
+                ],
+                "postalCode": "RG21 4HG",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basing View",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 4HG",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 69,
+                "usersCount": 13,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-5-4dedf4271f6e0f9053edcfca-15"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "53413cbd498e023243ff7049",
+              "name": "Café Giardino",
+              "location": {
+                "address": "Festival Place",
+                "crossStreet": "Queen Anne's Sq",
+                "lat": 51.264427755479105,
+                "lng": -1.0867335354368401,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.264427755479105,
+                    "lng": -1.0867335354368401
+                  }
+                ],
+                "postalCode": "RG21 7LJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Place (Queen Anne's Sq)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 61,
+                "usersCount": 25,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "57fa5c63498e84c7aa5e60c4",
+                "createdAt": 1476025443,
+                "text": "The food in terms of selection and taste was good but I thought that the prices were quite high and the staff were not as warm and friendly as they could have been. Loyalty scheme needs expanding - 4*",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/57fa5c63498e84c7aa5e60c4",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "350734033",
+                  "firstName": "Jake",
+                  "lastName": "L",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-53413cbd498e023243ff7049-16"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e4cdafab0fb57f6f2230d6e",
+              "name": "Caffè Nero - Waterstones",
+              "location": {
+                "address": "35 Wesley Walk",
+                "crossStreet": "Festival Place Shopping Centre",
+                "lat": 51.265596,
+                "lng": -1.087215,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.265596,
+                    "lng": -1.087215
+                  }
+                ],
+                "postalCode": "RG21 7BE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "35 Wesley Walk (Festival Place Shopping Centre)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 100,
+                "usersCount": 34,
+                "tipCount": 2
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "56c47e03498e0a01aef374ef",
+                "createdAt": 1455717891,
+                "text": "My favourite coffee shop!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/56c47e03498e0a01aef374ef",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "36576914",
+                  "firstName": "Iv",
+                  "lastName": "Aleks",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/36576914-QYJD1VH1FRS1KEHD.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4e4cdafab0fb57f6f2230d6e-17"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5412a08a498eab60ee325834",
+              "name": "Xscape Cafe",
+              "location": {
+                "address": "The Parade",
+                "lat": 51.268113872559276,
+                "lng": -1.0797372967789174,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.268113872559276,
+                    "lng": -1.0797372967789174
+                  }
+                ],
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "The Parade",
+                  "Basingstoke",
+                  "Hampshire",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 45,
+                "usersCount": 12,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-5-5412a08a498eab60ee325834-18"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4f27c87ae4b04e2569ce8d5d",
+              "name": "Morrisons Cafe",
+              "location": {
+                "address": "Worthing Rd",
+                "lat": 51.263734496277834,
+                "lng": -1.1037713829808118,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.263734496277834,
+                    "lng": -1.1037713829808118
+                  }
+                ],
+                "postalCode": "RG21 8BJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Worthing Rd",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 8BJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 81,
+                "usersCount": 36,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4fa4f0f0e4b00cad88d96d25",
+                "createdAt": 1336209648,
+                "text": "Food is ok. Coffee is rank no matter which option you choose.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4fa4f0f0e4b00cad88d96d25",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "2995029",
+                  "firstName": "Matthew",
+                  "lastName": "Philpott",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/2995029-PQIOHPHIXUQQHZ2I.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4f27c87ae4b04e2569ce8d5d-19"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "516bb0f7e4b05938fc6aa862",
+              "name": "Delice de France",
+              "location": {
+                "address": "Station Approach, Basingstoke Station",
+                "lat": 51.26863493715423,
+                "lng": -1.087269551421075,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26863493715423,
+                    "lng": -1.087269551421075
+                  }
+                ],
+                "postalCode": "RG21 5NE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Station Approach, Basingstoke Station",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 5NE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16a941735",
+                  "name": "Bakery",
+                  "pluralName": "Bakeries",
+                  "shortName": "Bakery",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 57,
+                "usersCount": 11,
+                "tipCount": 2
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 6:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 6:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "66886755"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51fb62c9498e4d4cd45d5cfb",
+                "createdAt": 1375429321,
+                "text": "Any freshly baked, sweet pastries & medium hot drink only £2.99 :)",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51fb62c9498e4d4cd45d5cfb",
+                "photo": {
+                  "id": "51fb62ce7dd29c0d2830ec75",
+                  "createdAt": 1375429326,
+                  "source": {
+                    "name": "Foursquare Web",
+                    "url": "https://foursquare.com"
+                  },
+                  "prefix": "https://igx.4sqi.net/img/general/",
+                  "suffix": "/14909097_qeXmCEkO7tskAMUuSmIu_ap8nRFc1zuFS-EF5NewOpg.jpg",
+                  "width": 640,
+                  "height": 554,
+                  "visibility": "public"
+                },
+                "photourl": "https://igx.4sqi.net/img/general/original/14909097_qeXmCEkO7tskAMUuSmIu_ap8nRFc1zuFS-EF5NewOpg.jpg",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "14909097",
+                  "firstName": "Iwona",
+                  "lastName": "S.",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/OHUIU32PIFNQ5YIY.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-516bb0f7e4b05938fc6aa862-20"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c0362e60d0e0f470b91029a",
+              "name": "Cafe Destino",
+              "location": {
+                "address": "Ticket Hall & Platform 4",
+                "crossStreet": "at BSK Station",
+                "lat": 51.268560884512716,
+                "lng": -1.087963099557451,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.268560884512716,
+                    "lng": -1.087963099557451
+                  }
+                ],
+                "postalCode": "RG21 5NE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Ticket Hall & Platform 4 (at BSK Station)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 5NE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 573,
+                "usersCount": 125,
+                "tipCount": 11
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "rating": 5.2,
+              "ratingColor": "FF9600",
+              "ratingSignals": 23,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51e3a621498ef8271a58f7a2",
+                "createdAt": 1373873697,
+                "text": "If you have a choice, use the Destino at the entrance rather than platform 4. The staff are much friendlier.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51e3a621498ef8271a58f7a2",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "11177397",
+                  "firstName": "Gunter",
+                  "lastName": "Richter",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/ZDLABJNG4RWGM0IX.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-5-4c0362e60d0e0f470b91029a-21"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4dbc1b074b222080d38838fc",
+              "name": "Sainsbury's Café",
+              "location": {
+                "lat": 51.23508551313001,
+                "lng": -1.138830239293004,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.23508551313001,
+                    "lng": -1.138830239293004
+                  }
+                ],
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basingstoke",
+                  "Hampshire",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 245,
+                "usersCount": 69,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-5-4dbc1b074b222080d38838fc-22"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d4ad09ab73fb1f714c2b532",
+              "name": "Jolly Olly's Coffe Shop",
+              "location": {
+                "address": "Oakley Lane",
+                "lat": 51.248706605007875,
+                "lng": -1.1781069149088383,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.248706605007875,
+                    "lng": -1.1781069149088383
+                  }
+                ],
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Oakley Lane",
+                  "Basingstoke",
+                  "Hampshire",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 42,
+                "usersCount": 17,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "£"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true
+            },
+            "referralId": "e-5-4d4ad09ab73fb1f714c2b532-23"
+          }
+        ]
+      }
+    ]
+  }
+}

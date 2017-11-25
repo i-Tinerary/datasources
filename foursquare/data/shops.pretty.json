@@ -1,0 +1,3436 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5a1979f6dd579717fd6076df"
+  },
+  "response": {
+    "suggestedFilters": {
+      "header": "Tap to show:",
+      "filters": [
+        {
+          "name": "Open now",
+          "key": "openNow"
+        }
+      ]
+    },
+    "geocode": {
+      "what": "",
+      "where": "basingstoke",
+      "center": {
+        "lat": 51.26249,
+        "lng": -1.08708
+      },
+      "displayString": "Basingstoke, Hampshire, United Kingdom",
+      "cc": "GB",
+      "geometry": {
+        "bounds": {
+          "ne": {
+            "lat": 51.30107299999986,
+            "lng": -1.0446420000002377
+          },
+          "sw": {
+            "lat": 51.22225149999986,
+            "lng": -1.1493860000001064
+          }
+        }
+      },
+      "slug": "basingstoke-united-kingdom",
+      "longId": "72057594040584128"
+    },
+    "headerLocation": "Basingstoke",
+    "headerFullLocation": "Basingstoke",
+    "headerLocationGranularity": "city",
+    "query": "shops",
+    "totalResults": 33,
+    "suggestedBounds": {
+      "ne": {
+        "lat": 51.29809987578258,
+        "lng": -1.0470540757846067
+      },
+      "sw": {
+        "lat": 51.22637380856597,
+        "lng": -1.1538932085232543
+      }
+    },
+    "groups": [
+      {
+        "type": "Recommended Places",
+        "name": "recommended",
+        "items": [
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e4fc17ee4cdc76dc9b4d9ed",
+              "name": "Apple Festival Place",
+              "location": {
+                "address": "Upper Level, Queen Anne’s Walk",
+                "crossStreet": "Festival Place",
+                "lat": 51.265562,
+                "lng": -1.085476,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.265562,
+                    "lng": -1.085476
+                  }
+                ],
+                "postalCode": "RG21 7BE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Upper Level, Queen Anne’s Walk (Festival Place)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d122951735",
+                  "name": "Electronics Store",
+                  "pluralName": "Electronics Stores",
+                  "shortName": "Electronics",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 2353,
+                "usersCount": 542,
+                "tipCount": 9
+              },
+              "rating": 8.8,
+              "ratingColor": "73CF42",
+              "ratingSignals": 70,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "R482",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4e5264b4814d5634cb180d37",
+                "createdAt": 1314022580,
+                "text": "Where fanboys and fangirls congregate to prostrate themselves on the Altar of Apple and regurgitate the words of their prophet Steve Jobs...",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e5264b4814d5634cb180d37",
+                "likes": {
+                  "count": 5,
+                  "groups": [],
+                  "summary": "5 Likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "12174465",
+                  "firstName": "Daily Basingstoke",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/ZN3JRP3R1EVID5IQ.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-6-4e4fc17ee4cdc76dc9b4d9ed-0"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5644ef85498e8cd95127216f",
+              "name": "Waitrose",
+              "location": {
+                "address": "Basing View",
+                "lat": 51.26783614596525,
+                "lng": -1.08234118261066,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26783614596525,
+                    "lng": -1.08234118261066
+                  }
+                ],
+                "postalCode": "RG21 4BF",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basing View",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 4BF",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1089,
+                "usersCount": 140,
+                "tipCount": 4
+              },
+              "rating": 7.8,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 51,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 9:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 9:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "59e07c791bc70403e8af37f5",
+                "createdAt": 1507884153,
+                "text": "There's a sushi counter. The crunch rolls are great! 🍣",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/59e07c791bc70403e8af37f5",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "814686",
+                  "firstName": "Katharine",
+                  "lastName": "Robinson",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/-CLLCMKAMTP2UKIO0.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-5644ef85498e8cd95127216f-1"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "56450518498eb7f00de086db",
+              "name": "John Lewis at Home",
+              "location": {
+                "address": "Basing View",
+                "lat": 51.267840262054236,
+                "lng": -1.0823146529035343,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.267840262054236,
+                    "lng": -1.0823146529035343
+                  }
+                ],
+                "postalCode": "RG21 4BF",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basing View",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 4BF",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1f6941735",
+                  "name": "Department Store",
+                  "pluralName": "Department Stores",
+                  "shortName": "Department Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 402,
+                "usersCount": 83,
+                "tipCount": 3
+              },
+              "rating": 7.6,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 21,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 8:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 8:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5706ba62498e5b357e78ee89",
+                "createdAt": 1460058722,
+                "text": "A small store with a confusing car park - no way of them knowing if you just drive off without paying. A lot of empty space is taken up by the lifts and escalators. Good staff so 4*.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5706ba62498e5b357e78ee89",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-56450518498eb7f00de086db-2"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4be57ee6bcef2d7f59d603e5",
+              "name": "GO Outdoors",
+              "location": {
+                "address": "Reading Rd",
+                "lat": 51.28287598007652,
+                "lng": -1.0699006423841122,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28287598007652,
+                    "lng": -1.0699006423841122
+                  }
+                ],
+                "postalCode": "RG24 8NA",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Reading Rd",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 8NA",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b22",
+                  "name": "Outdoor Supply Store",
+                  "pluralName": "Outdoor Supply Stores",
+                  "shortName": "Outdoor Supplies",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 385,
+                "usersCount": 191,
+                "tipCount": 3
+              },
+              "rating": 7.2,
+              "ratingColor": "C5DE35",
+              "ratingSignals": 26,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4fc247e6e4b045c5b5823de6",
+                "createdAt": 1338132454,
+                "text": "Download the Go Outdoors discount card app for iPhone. Check the catalogues for more deals!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4fc247e6e4b045c5b5823de6",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "27047073",
+                  "firstName": "Richard",
+                  "lastName": "Hubbuck",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/FYONTHXCXG0240E4.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4be57ee6bcef2d7f59d603e5-3"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d84f79761676dcb21fb7ee4",
+              "name": "The Co-operative Food",
+              "location": {
+                "address": "Winklebury Way,",
+                "lat": 51.27314172,
+                "lng": -1.113469,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.27314172,
+                    "lng": -1.113469
+                  }
+                ],
+                "postalCode": "RG23 8BB",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Winklebury Way,",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG23 8BB",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 78,
+                "usersCount": 36,
+                "tipCount": 0
+              },
+              "rating": 6.8,
+              "ratingColor": "FFC800",
+              "ratingSignals": 4,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "5000128688891",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4d84f79761676dcb21fb7ee4-4"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c0b9499a1b32d7f812f9bf0",
+              "name": "Marks & Spencer",
+              "location": {
+                "address": "Festival Pl",
+                "crossStreet": "9 Paddington House",
+                "lat": 51.2654214509867,
+                "lng": -1.0875762368843378,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.2654214509867,
+                    "lng": -1.0875762368843378
+                  }
+                ],
+                "postalCode": "RG21 7LJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Pl (9 Paddington House)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d103951735",
+                  "name": "Clothing Store",
+                  "pluralName": "Clothing Stores",
+                  "shortName": "Apparel",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 721,
+                "usersCount": 254,
+                "tipCount": 5
+              },
+              "rating": 6.7,
+              "ratingColor": "FFC800",
+              "ratingSignals": 33,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "Basingstoke",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "50ed645ce4b0ac5001932e7d",
+                "createdAt": 1357735004,
+                "text": "Service in the cafe is very slow.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50ed645ce4b0ac5001932e7d",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1536744",
+                  "firstName": "Ali",
+                  "lastName": "Strange",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/1536744-VXLOT4DMKQB3WY5N.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c0b9499a1b32d7f812f9bf0-5"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b780ec9f964a520dcb32ee3",
+              "name": "Boots",
+              "location": {
+                "address": "15 The Malls",
+                "lat": 51.26685205382061,
+                "lng": -1.0880583078188284,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26685205382061,
+                    "lng": -1.0880583078188284
+                  }
+                ],
+                "postalCode": "RG21 7LW",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "15 The Malls",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LW",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d10f951735",
+                  "name": "Pharmacy",
+                  "pluralName": "Pharmacies",
+                  "shortName": "Pharmacy",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 451,
+                "usersCount": 142,
+                "tipCount": 0
+              },
+              "rating": 6.6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 14,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 6:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 6:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4b780ec9f964a520dcb32ee3-6"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "529b294311d25bd8bfef13c8",
+              "name": "Lidl",
+              "location": {
+                "lat": 51.28351984300295,
+                "lng": -1.0697361528232376,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28351984300295,
+                    "lng": -1.0697361528232376
+                  }
+                ],
+                "cc": "GB",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 141,
+                "usersCount": 42,
+                "tipCount": 0
+              },
+              "rating": 6.6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 10,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-529b294311d25bd8bfef13c8-7"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4f5a310ee4b0b310dee1e198",
+              "name": "M&S Simply Food",
+              "location": {
+                "address": "Chineham Shopping Ctr.",
+                "lat": 51.28408881988595,
+                "lng": -1.0604311456914268,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28408881988595,
+                    "lng": -1.0604311456914268
+                  }
+                ],
+                "postalCode": "RG24 8BQ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Chineham Shopping Ctr.",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 8BQ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 364,
+                "usersCount": 91,
+                "tipCount": 0
+              },
+              "rating": 6.4,
+              "ratingColor": "FFC800",
+              "ratingSignals": 14,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4f5a310ee4b0b310dee1e198-8"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "504f657e7e27022f969b69fb",
+              "name": "The Co-operative Food",
+              "location": {
+                "address": "Grove Road,",
+                "lat": 51.25342214984958,
+                "lng": -1.0807344823715017,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.25342214984958,
+                    "lng": -1.0807344823715017
+                  }
+                ],
+                "postalCode": "RG21 3AX",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Grove Road,",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 3AX",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 79,
+                "usersCount": 18,
+                "tipCount": 0
+              },
+              "rating": 6.2,
+              "ratingColor": "FFC800",
+              "ratingSignals": 4,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "5000128688943",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-504f657e7e27022f969b69fb-9"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c0a6c90ffb8c9b6d3796b61",
+              "name": "hmv",
+              "location": {
+                "address": "Unit 28/29, Festival Pl",
+                "crossStreet": "Ground Level",
+                "lat": 51.26557687426895,
+                "lng": -1.0860145022639263,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26557687426895,
+                    "lng": -1.0860145022639263
+                  }
+                ],
+                "postalCode": "RG21 7BE",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Unit 28/29, Festival Pl (Ground Level)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1fe941735",
+                  "name": "Music Store",
+                  "pluralName": "Music Stores",
+                  "shortName": "Music Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/music_instruments_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 420,
+                "usersCount": 195,
+                "tipCount": 4
+              },
+              "rating": 6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 13,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "BASINGSTOKE",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5706bb8b498ec06b6e6dd3e6",
+                "createdAt": 1460059019,
+                "text": "Generally a cheap store, except fro when it comes to new releases. Good staff and selection of items. Need a cleaner to deal with all of the dust in store. 4*",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5706bb8b498ec06b6e6dd3e6",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c0a6c90ffb8c9b6d3796b61-10"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c1f2f9c920076b00060c4e9",
+              "name": "The Co-operative Food",
+              "location": {
+                "crossStreet": "Beggarwood",
+                "lat": 51.22963408434854,
+                "lng": -1.142081617812328,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.22963408434854,
+                    "lng": -1.142081617812328
+                  }
+                ],
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Basingstoke",
+                  "Hampshire",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 110,
+                "usersCount": 31,
+                "tipCount": 2
+              },
+              "rating": 6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 5,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5284f94c11d2e94c8d6cc890",
+                "createdAt": 1384446284,
+                "text": "I've never had a problem with staff here",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5284f94c11d2e94c8d6cc890",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "56514661",
+                  "firstName": "Stuart",
+                  "lastName": "Hatto",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/56514661-UNZZ5JJUUBL3F0KR.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c1f2f9c920076b00060c4e9-11"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b62db0ff964a520b6552ae3",
+              "name": "Debenhams",
+              "location": {
+                "address": "Festival Place",
+                "crossStreet": "Church St",
+                "lat": 51.26496628928259,
+                "lng": -1.08546526069196,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26496628928259,
+                    "lng": -1.08546526069196
+                  }
+                ],
+                "postalCode": "RG21 7BA",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Place (Church St)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7BA",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1f6941735",
+                  "name": "Department Store",
+                  "pluralName": "Department Stores",
+                  "shortName": "Department Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1072,
+                "usersCount": 410,
+                "tipCount": 5
+              },
+              "rating": 6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 23,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 6:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 6:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "70",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5706bbc8498e7ad05c489650",
+                "createdAt": 1460059080,
+                "text": "A very large store with everything you would need. Good staff although a couple of very minor maintenance problems need to be flagged and dealt with. 5*",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5706bbc8498e7ad05c489650",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b62db0ff964a520b6552ae3-12"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c52eef37f6e20a1b39a57ec",
+              "name": "Primark",
+              "location": {
+                "address": "The Malls",
+                "crossStreet": "6 Castle Sq",
+                "lat": 51.267090211872286,
+                "lng": -1.087947393552992,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.267090211872286,
+                    "lng": -1.087947393552992
+                  }
+                ],
+                "postalCode": "RG21 7FH",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "The Malls (6 Castle Sq)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7FH",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d103951735",
+                  "name": "Clothing Store",
+                  "pluralName": "Clothing Stores",
+                  "shortName": "Apparel",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 454,
+                "usersCount": 231,
+                "tipCount": 3
+              },
+              "rating": 6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 13,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "132",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "57067aa3498e4a0fc02d1b90",
+                "createdAt": 1460042403,
+                "text": "Visited early morning when it was quiet. Offers great value and a modern, well maintained store. Hairbrushes for sale had hair in them and staff walk around with untucked shirts. Friendly service. 5*",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/57067aa3498e4a0fc02d1b90",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c52eef37f6e20a1b39a57ec-13"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ae9e76bf964a52074b721e3",
+              "name": "Festival Place Shopping Centre",
+              "location": {
+                "address": "Festival Way",
+                "lat": 51.26535213392538,
+                "lng": -1.0867881774902344,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26535213392538,
+                    "lng": -1.0867881774902344
+                  }
+                ],
+                "postalCode": "RG21 7LJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Festival Way",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7LJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1fd941735",
+                  "name": "Shopping Mall",
+                  "pluralName": "Shopping Malls",
+                  "shortName": "Mall",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 10768,
+                "usersCount": 2052,
+                "tipCount": 35
+              },
+              "rating": 6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 201,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 1,
+                "summary": "One other person is here",
+                "groups": [
+                  {
+                    "type": "others",
+                    "name": "Other people here",
+                    "count": 1,
+                    "items": []
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "529ba79f498ee6b5ad59850a",
+                "createdAt": 1385932703,
+                "text": "Can you drive a Ford Fiesta through here while being chased by baddies in a Corvette? Why, yes!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/529ba79f498ee6b5ad59850a",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "72796956",
+                  "firstName": "Top Gear film locations",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/72796956-2ZO3YOD54OVTIS4M.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-6-4ae9e76bf964a52074b721e3-14"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4cbac1ae4352a1cd54ef94f5",
+              "name": "Hobbycraft",
+              "location": {
+                "address": "Winchester Rd",
+                "lat": 51.249837256926895,
+                "lng": -1.1136153750072022,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.249837256926895,
+                    "lng": -1.1136153750072022
+                  }
+                ],
+                "postalCode": "RG22 6HN",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Winchester Rd",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 6HN",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d127951735",
+                  "name": "Arts & Crafts Store",
+                  "pluralName": "Arts & Crafts Stores",
+                  "shortName": "Arts & Crafts",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/artstore_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 254,
+                "usersCount": 114,
+                "tipCount": 3
+              },
+              "rating": 5.9,
+              "ratingColor": "FF9600",
+              "ratingSignals": 18,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "568b74f6498e4d0548bfb24e",
+                "createdAt": 1451980022,
+                "text": "Have to make sure I've saved loads of money before going in here - there is so much I want to buy",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/568b74f6498e4d0548bfb24e",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "27601193",
+                  "firstName": "Sharon",
+                  "lastName": "Dorricott",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/2LDOOGCAQT0IXNHF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4cbac1ae4352a1cd54ef94f5-15"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b4cc28df964a520a6bd26e3",
+              "name": "Morrisons",
+              "location": {
+                "address": "Thornycroft Ind Est",
+                "crossStreet": "Worting Rd",
+                "lat": 51.26385235689135,
+                "lng": -1.1039071380237024,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26385235689135,
+                    "lng": -1.1039071380237024
+                  }
+                ],
+                "postalCode": "RG21 8BJ",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Thornycroft Ind Est (Worting Rd)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 8BJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1738,
+                "usersCount": 355,
+                "tipCount": 6
+              },
+              "rating": 5.8,
+              "ratingColor": "FF9600",
+              "ratingSignals": 42,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "345",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4dc3ef62d164eb9c9fc7c08a",
+                "createdAt": 1304686434,
+                "text": "Spend £40 in store and get 6p off per litre on fuel. If you do a big shop, the cashier may be nice and let you split it into bits and get lots!! Keep your receipt!!!!!!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4dc3ef62d164eb9c9fc7c08a",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "5625253",
+                  "firstName": "Caitlin",
+                  "lastName": "Kretzschmar",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/O0ONYC3CWLTMAATC.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b4cc28df964a520a6bd26e3-16"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bf2145b3fa220a1f9101920",
+              "name": "Tesco Express",
+              "location": {
+                "address": "Lychpit Local Centre",
+                "lat": 51.276780777378,
+                "lng": -1.0576946178451956,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.276780777378,
+                    "lng": -1.0576946178451956
+                  }
+                ],
+                "postalCode": "RG24 8BE",
+                "cc": "GB",
+                "city": "Hampshire",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Lychpit Local Centre",
+                  "Hampshire",
+                  "RG24 8BE",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 115,
+                "usersCount": 39,
+                "tipCount": 0
+              },
+              "rating": 5.8,
+              "ratingColor": "FF9600",
+              "ratingSignals": 4,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4bf2145b3fa220a1f9101920-17"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bf904a55ec320a1759f89d3",
+              "name": "Lidl",
+              "location": {
+                "lat": 51.26278755513025,
+                "lng": -1.1182603451973265,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26278755513025,
+                    "lng": -1.1182603451973265
+                  }
+                ],
+                "cc": "GB",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 128,
+                "usersCount": 37,
+                "tipCount": 3
+              },
+              "rating": 5.8,
+              "ratingColor": "FF9600",
+              "ratingSignals": 9,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51e4f534498e1df3a873a2eb",
+                "createdAt": 1373959476,
+                "text": "Pretty good here indeed.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51e4f534498e1df3a873a2eb",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "5019287",
+                  "firstName": "Adam",
+                  "lastName": "Procter",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/5019287_c8YPmo1v_GKiV3keuQs5sx_wVwGl230OeTAtsaLI9RKoFIzWaCj9ZsSfBefnFEZ8h19nQZa-S.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4bf904a55ec320a1759f89d3-18"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bf7dc01b182c9b6c756765a",
+              "name": "Tesco",
+              "location": {
+                "address": "Oakridge Road",
+                "crossStreet": "-",
+                "lat": 51.27724261565368,
+                "lng": -1.089815901763611,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.27724261565368,
+                    "lng": -1.089815901763611
+                  }
+                ],
+                "postalCode": "RG21 2SG",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Oakridge Road (-)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 2SG",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 66,
+                "usersCount": 24,
+                "tipCount": 0
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 2,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "4182",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4bf7dc01b182c9b6c756765a-19"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c0f7ba62466a5935fa17a21",
+              "name": "Sainsbury's",
+              "location": {
+                "address": "1-2 The Malls",
+                "lat": 51.26723488147614,
+                "lng": -1.087905082371946,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26723488147614,
+                    "lng": -1.087905082371946
+                  }
+                ],
+                "postalCode": "RG21 7DW",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "1-2 The Malls",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7DW",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 982,
+                "usersCount": 176,
+                "tipCount": 1
+              },
+              "rating": 5.6,
+              "ratingColor": "FF9600",
+              "ratingSignals": 11,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 8:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 8:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5803b342d67c06b34f4313e9",
+                "createdAt": 1476637506,
+                "text": "A visit to the meal deal section revealed overpriced items and a pretty boring selection. The tops of the fridges were also noticeably quite dusty. 2*",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5803b342d67c06b34f4313e9",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "350734033",
+                  "firstName": "Jake",
+                  "lastName": "L",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c0f7ba62466a5935fa17a21-20"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b8832bef964a520d0e631e3",
+              "name": "Tesco",
+              "location": {
+                "address": "Carpenters Down",
+                "crossStreet": "POPLEY",
+                "lat": 51.287142366206645,
+                "lng": -1.0836629971496305,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.287142366206645,
+                    "lng": -1.0836629971496305
+                  }
+                ],
+                "postalCode": "RG24 9ES",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Carpenters Down (POPLEY)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 9ES",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 219,
+                "usersCount": 52,
+                "tipCount": 1
+              },
+              "rating": 5.6,
+              "ratingColor": "FF9600",
+              "ratingSignals": 9,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "2583",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "50f18e2ee4b00237e42215f2",
+                "createdAt": 1358007854,
+                "text": "Always check for any pricing mistakes. They have to refund double the difference! As they can't add up they sometimes give double the product price!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50f18e2ee4b00237e42215f2",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "43671094",
+                  "firstName": "Cliff",
+                  "lastName": "Jolliffe",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b8832bef964a520d0e631e3-21"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ca2130d7ada199c96b0b4bc",
+              "name": "Manydown Farm Shop",
+              "location": {
+                "address": "Scrapps Hill Farm",
+                "lat": 51.26224717954681,
+                "lng": -1.1490368843078613,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.26224717954681,
+                    "lng": -1.1490368843078613
+                  }
+                ],
+                "postalCode": "RG23 8PU",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Scrapps Hill Farm",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG23 8PU",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1fa941735",
+                  "name": "Farmers Market",
+                  "pluralName": "Farmers Markets",
+                  "shortName": "Farmer's Market",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 112,
+                "usersCount": 53,
+                "tipCount": 1
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5156df32e4b01d0cc1614cf7",
+                "createdAt": 1364647730,
+                "text": "Be patient when waiting for food or drink! Slowest service I have ever experienced! :-(",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5156df32e4b01d0cc1614cf7",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "827811",
+                  "firstName": "Richard",
+                  "lastName": "S",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/5DVJ4QGKSGP1P5AS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4ca2130d7ada199c96b0b4bc-22"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c0ca05f98102d7f3efae006",
+              "name": "One Stop Stores Ltd",
+              "location": {
+                "address": "Units 3 & 4, Sherfield Park",
+                "lat": 51.2948396,
+                "lng": -1.0519104,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.2948396,
+                    "lng": -1.0519104
+                  }
+                ],
+                "postalCode": "RG24 8XJ",
+                "cc": "GB",
+                "city": "Chineham",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Units 3 & 4, Sherfield Park",
+                  "Chineham",
+                  "Hampshire",
+                  "RG24 8XJ",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4d954b0ea243a5684a65b473",
+                  "name": "Convenience Store",
+                  "pluralName": "Convenience Stores",
+                  "shortName": "Convenience Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/conveniencestore_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 54,
+                "usersCount": 22,
+                "tipCount": 0
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 10:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-6-4c0ca05f98102d7f3efae006-23"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d14a36f6d103704fb0823bd",
+              "name": "Pets At Home",
+              "location": {
+                "address": "Unit 5 Hatch Warren Retail Park",
+                "crossStreet": "Wallop Drive",
+                "lat": 51.23377515519034,
+                "lng": -1.1408673387450288,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.23377515519034,
+                    "lng": -1.1408673387450288
+                  }
+                ],
+                "postalCode": "RG22 4TT",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Unit 5 Hatch Warren Retail Park (Wallop Drive)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 4TT",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d100951735",
+                  "name": "Pet Store",
+                  "pluralName": "Pet Stores",
+                  "shortName": "Pet Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pet_store_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 245,
+                "usersCount": 86,
+                "tipCount": 1
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "513e551fe4b03f32bc4cae2c",
+                "createdAt": 1363039519,
+                "text": "Good selection",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/513e551fe4b03f32bc4cae2c",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "48965732",
+                  "firstName": "Anne",
+                  "lastName": "Barlow",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_girl.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4d14a36f6d103704fb0823bd-24"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "52adc6c3498efd4b5000fa4f",
+              "name": "Dunelm",
+              "location": {
+                "lat": 51.2840889416578,
+                "lng": -1.0692812734032826,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.2840889416578,
+                    "lng": -1.0692812734032826
+                  }
+                ],
+                "cc": "GB",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1f8941735",
+                  "name": "Furniture / Home Store",
+                  "pluralName": "Furniture / Home Stores",
+                  "shortName": "Furniture / Home",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 121,
+                "usersCount": 52,
+                "tipCount": 2
+              },
+              "rating": 5.5,
+              "ratingColor": "FF9600",
+              "ratingSignals": 17,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "56881ae0498e9a34f4f42595",
+                "createdAt": 1451760352,
+                "text": "It was Okay when it opened but now it just looks cheap, tacky and cluttered.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/56881ae0498e9a34f4f42595",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "135794204",
+                  "firstName": "pib",
+                  "lastName": "web",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/135794204_kGb6bSvb_d8cuODKQMtxQ8OHUkndF2dSFaphgWT9Ktd1RgZWYAD3V2MiFRxvpmVebzjvwbsvS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-52adc6c3498efd4b5000fa4f-25"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c6a8fb58e7c0f472f71e20f",
+              "name": "Toys\"R\"Us",
+              "location": {
+                "address": "Winchester Rd",
+                "lat": 51.251371536573025,
+                "lng": -1.10931875235161,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.251371536573025,
+                    "lng": -1.10931875235161
+                  }
+                ],
+                "postalCode": "RG22 4AN",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Winchester Rd",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 4AN",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1f3941735",
+                  "name": "Toy / Game Store",
+                  "pluralName": "Toy / Game Stores",
+                  "shortName": "Toys & Games",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/toys_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 255,
+                "usersCount": 144,
+                "tipCount": 2
+              },
+              "rating": 5.3,
+              "ratingColor": "FF9600",
+              "ratingSignals": 14,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 7:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 7:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "57057c40498ee6303d31d2f3",
+                "createdAt": 1459977280,
+                "text": "Not really enough staff, though friendly and helpful. Sweet shelves in poor condition. Takes a while for items delivered to be put on the shelves. 2*.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/57057c40498ee6303d31d2f3",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "175375367",
+                  "firstName": "A Google",
+                  "lastName": "User",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c6a8fb58e7c0f472f71e20f-26"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b48a878f964a520dd5126e3",
+              "name": "Tesco",
+              "location": {
+                "address": "DIST SHOPPING CENTRE",
+                "crossStreet": "CHINEHAM",
+                "lat": 51.28386079151605,
+                "lng": -1.0592607812228367,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28386079151605,
+                    "lng": -1.0592607812228367
+                  }
+                ],
+                "postalCode": "RG24 8BB",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "DIST SHOPPING CENTRE (CHINEHAM)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG24 8BB",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1998,
+                "usersCount": 386,
+                "tipCount": 4
+              },
+              "rating": 5.3,
+              "ratingColor": "FF9600",
+              "ratingSignals": 40,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "1843",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "575449a0498e28cf07a10737",
+                "createdAt": 1465141664,
+                "text": "The wifi is very quick and therefore quite insecure so make sure you use vpn and protect your personal data on social media apps",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/575449a0498e28cf07a10737",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "135794204",
+                  "firstName": "pib",
+                  "lastName": "web",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/135794204_kGb6bSvb_d8cuODKQMtxQ8OHUkndF2dSFaphgWT9Ktd1RgZWYAD3V2MiFRxvpmVebzjvwbsvS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b48a878f964a520dd5126e3-27"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c187d856a21c9b6a11fc997",
+              "name": "The Malls",
+              "location": {
+                "address": "Churchill Way",
+                "lat": 51.267640811917424,
+                "lng": -1.087804806230275,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.267640811917424,
+                    "lng": -1.087804806230275
+                  }
+                ],
+                "postalCode": "RG21 7TW",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Churchill Way",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG21 7TW",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1fd941735",
+                  "name": "Shopping Mall",
+                  "pluralName": "Shopping Malls",
+                  "shortName": "Mall",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1328,
+                "usersCount": 322,
+                "tipCount": 8
+              },
+              "rating": 5.1,
+              "ratingColor": "FF9600",
+              "ratingSignals": 46,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 6:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 6:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "50e17411e4b092e9afb32ed7",
+                "createdAt": 1356952593,
+                "text": "Has been nicely refurbished this year, although I normally just walk through it to get to festival place next door. Shops here still shut around 6 (except thurs & fri) which is pretty useless really.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50e17411e4b092e9afb32ed7",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "613979",
+                  "firstName": "Slynky",
+                  "lastName": "Cat",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/USQB3DCTALP31F5H.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4c187d856a21c9b6a11fc997-28"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b268510f964a520cd7c24e3",
+              "name": "Sainsbury's",
+              "location": {
+                "address": "3 Wallop Dr",
+                "lat": 51.2351941547357,
+                "lng": -1.1387301944964527,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.2351941547357,
+                    "lng": -1.1387301944964527
+                  }
+                ],
+                "postalCode": "RG22 4TW",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "3 Wallop Dr",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 4TW",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 2178,
+                "usersCount": 390,
+                "tipCount": 10
+              },
+              "rating": 5,
+              "ratingColor": "FF9600",
+              "ratingSignals": 48,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 10:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 1,
+                "summary": "One other person is here",
+                "groups": [
+                  {
+                    "type": "others",
+                    "name": "Other people here",
+                    "count": 1,
+                    "items": []
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4e22fb42d22d0a3f5a07730b",
+                "createdAt": 1310915394,
+                "text": "Store is open til 10 most nights, go shopping after 8pm, it's much quieter and fewer screaming kids",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e22fb42d22d0a3f5a07730b",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "613979",
+                  "firstName": "Slynky",
+                  "lastName": "Cat",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/USQB3DCTALP31F5H.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b268510f964a520cd7c24e3-29"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4cac6aba14c33704dfc3ef3b",
+              "name": "Currys PC World",
+              "location": {
+                "address": "Unit 6 Brighton Retail Park",
+                "lat": 51.25050183551925,
+                "lng": -1.109619522354298,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.25050183551925,
+                    "lng": -1.109619522354298
+                  }
+                ],
+                "postalCode": "RG22 4AN",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Unit 6 Brighton Retail Park",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 4AN",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d122951735",
+                  "name": "Electronics Store",
+                  "pluralName": "Electronics Stores",
+                  "shortName": "Electronics",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 141,
+                "usersCount": 80,
+                "tipCount": 1
+              },
+              "rating": 5,
+              "ratingColor": "FF9600",
+              "ratingSignals": 18,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "2236",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4efde27f6da1cd0356f3f0c7",
+                "createdAt": 1325261439,
+                "text": "Rogan Josh is tasty.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4efde27f6da1cd0356f3f0c7",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1165805",
+                  "firstName": "wo0",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/EQ3CFZ1O0TBOMZ1S.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4cac6aba14c33704dfc3ef3b-30"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bad444ef964a520e83f3be3",
+              "name": "Chineham Shopping Centre",
+              "location": {
+                "address": "Chineham",
+                "lat": 51.28421047665443,
+                "lng": -1.0598536424057283,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.28421047665443,
+                    "lng": -1.0598536424057283
+                  }
+                ],
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Chineham",
+                  "Basingstoke",
+                  "Hampshire",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1151,
+                "usersCount": 248,
+                "tipCount": 4
+              },
+              "rating": 4.9,
+              "ratingColor": "FF6701",
+              "ratingSignals": 23,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4de00549d164e323c7a1b7ff",
+                "createdAt": 1306527049,
+                "text": "Park behind the centre - first left at the little roundabout - then you wheel your shopping downhill - and it is usually emptier",
+                "type": "user",
+                "url": "http://www.goscoville.com",
+                "canonicalUrl": "https://foursquare.com/item/4de00549d164e323c7a1b7ff",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "7112735",
+                  "firstName": "Tony",
+                  "lastName": "Morwood-Leyland",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/HMLKRTPK4MOAJV51.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4bad444ef964a520e83f3be3-31"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b781e9df964a520b9b62ee3",
+              "name": "Asda",
+              "location": {
+                "address": "Brighton Way",
+                "crossStreet": "Brighton Hill",
+                "lat": 51.24443779557827,
+                "lng": -1.113826617863754,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 51.24443779557827,
+                    "lng": -1.113826617863754
+                  }
+                ],
+                "postalCode": "RG22 4DH",
+                "cc": "GB",
+                "city": "Basingstoke",
+                "state": "Hampshire",
+                "country": "United Kingdom",
+                "formattedAddress": [
+                  "Brighton Way (Brighton Hill)",
+                  "Basingstoke",
+                  "Hampshire",
+                  "RG22 4DH",
+                  "United Kingdom"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "52f2ab2ebcbc57f1066b8b46",
+                  "name": "Supermarket",
+                  "pluralName": "Supermarkets",
+                  "shortName": "Supermarket",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1051,
+                "usersCount": 262,
+                "tipCount": 8
+              },
+              "rating": 4.6,
+              "ratingColor": "FF6701",
+              "ratingSignals": 35,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5229ab0b11d2e03f38fabdbb",
+                "createdAt": 1378462475,
+                "text": "Nice cup of herbal tea",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5229ab0b11d2e03f38fabdbb",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "61280177",
+                  "firstName": "Leroy",
+                  "lastName": "Wilson",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/CFTYZ1BDDFRY3XKO.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-6-4b781e9df964a520b9b62ee3-32"
+          }
+        ]
+      }
+    ]
+  }
+}
